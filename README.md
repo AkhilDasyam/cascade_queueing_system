@@ -15,7 +15,7 @@ This project simulates a cascaded M/M/1 queuing system with three sequential ser
 
 ---
 
-## 🧠 Code Workflow
+## 🧠 Code Overview.
 
 - `main.m`:  
   Initializes the simulation. Defines system parameters and coordinates calls to queue function modules for each stage.
